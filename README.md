@@ -1,2 +1,2 @@
 # DEMO
-index,html
+index.html
